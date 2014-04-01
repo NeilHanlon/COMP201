@@ -43,6 +43,7 @@ int main()
     }while(choice > 0); 
  return 0; 
 } 
+
 NodePtr search(NodePtr head, string target, int choice) 
 { 
    // Point to the head node 
